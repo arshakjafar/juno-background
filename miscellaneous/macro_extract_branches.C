@@ -1,3 +1,8 @@
+/* This macro can be used to extract leaves for analysing data off CNAF .
+Copying terabytes of data locally isnt a viable solution. 
+So using this macro to extact only the leaves of interest is a better solution
+
+*/
 #include <fstream>
 
 void extract_trees_time(){
